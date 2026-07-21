@@ -5,6 +5,12 @@
 * [线程安全的单例模式](#线程安全的单例模式)
 * [实现 string 类](#实现-string-类)
 
+### LeetCode 手撕（已有代码）
+
+- [两数之和 LC 1](./coding/twoSum.cpp)（百度面经）
+- [三数之和 LC 15](./coding/threeSum.cpp)（滴滴面经）
+- 更多对照见 [leetcode/README.md](../leetcode/README.md)
+
 ### 实现生产者消费者模型
 
 **描述**：一群生产者和一群消费者提供产品，共享缓冲区
