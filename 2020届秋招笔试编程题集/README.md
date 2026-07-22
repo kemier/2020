@@ -25,6 +25,20 @@
 
 - [递增子序列](https://github.com/Apriluestc/2020/blob/master/2020%E5%B1%8A%E7%A7%8B%E6%8B%9B%E7%AC%94%E8%AF%95%E7%BC%96%E7%A8%8B%E9%A2%98%E9%9B%86/coding/hs01.cpp)
 
+### 【回文 / 素数】
+
+- [回文数 LC 9](./palindrome/pd01.cpp)
+- [回文素数 LC 866（相关）](./palindrome/pd02.cpp)
+- [素数 / 回文判定](./prime.cpp)
+
+### 【其他】
+
+- [二进制中 1 的个数相关](./lam/numbersOfOne.cpp)
+
 ### 【真题训练】
 
 - [滴滴](https://github.com/Apriluestc/2020/blob/master/2020%E5%B1%8A%E7%A7%8B%E6%8B%9B%E7%AC%94%E8%AF%95%E7%BC%96%E7%A8%8B%E9%A2%98%E9%9B%86/%E6%BB%B4%E6%BB%B4/README.md)
+
+### 【LeetCode 索引】
+
+- [LeetCode / 剑指 Offer 统一索引](../leetcode/README.md)
