@@ -1,10 +1,14 @@
 # Qt 专栏覆盖缺口分析
 
-对照四份课程大纲，检查仓库 `kemier/2020` 中是否存在 `qt/`（或独立仓库 `kemier/qt`）学习笔记 / 示例代码。
+对照四份课程大纲，检查独立仓库 `kemier/qt`（私有）及本仓库是否含 Qt 学习笔记 / 示例代码。
 
-**结论：当前无 `kemier/qt` 目录与仓库，Qt 专题覆盖率为 0%。下列全部 topic 均未 cover。**
+**结论（待私有仓授权后复核）：**
 
-检查范围：`kemier/2020` 全树（含 `doc/`、`项目/`、`km/` 等）。相关但非 Qt 的材料（如 `doc/MySQL`）不计为已覆盖。
+- `kemier/qt` **存在且为私有仓**；本 Cloud Agent 环境只挂载了 `github.com/kemier/2020`，当前 token **无法 clone / API 访问** `kemier/qt`（表现为 404）。
+- 在 `kemier/2020` 本树内：无既有 Qt / QML / QSS / FFmpeg / OpenCV 专题内容。
+- 因此下列清单暂记为「本环境可见范围内未覆盖」；**不能等价于私有仓实际覆盖率 0%**。把 `github.com/kemier/qt` 加进该 Environment 的 repos 后即可重跑对照。
+
+检查范围（已执行）：`kemier/2020` 全树。相关但非 Qt 的材料（如 `doc/MySQL`）不计为已覆盖。
 
 ---
 
